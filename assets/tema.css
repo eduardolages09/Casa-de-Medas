@@ -1,0 +1,9 @@
+/* Casa de Medas · Floresta — Yrsa (o nome e os títulos, em 300) + Plus Jakarta Sans.
+   Linho, o verde dos carvalhos (botões e onde dormir) e o xisto escuro da sala (faixa das comodidades). */
+:root {
+  --nome: "Yrsa", Georgia, serif; --serif: "Yrsa", Georgia, serif; --sans: "Plus Jakarta Sans", system-ui, sans-serif;
+  --peso-titulo: 300; --peso-nome: 400;
+  --fundo: #f3f0e9; --fundo-2: #e7e2d7; --tinta: #24261f; --tinta-2: #5b5c53;
+  --destaque: #4b5a3c; --destaque-2: #3e4b31; --destaque-claro: #b9c3a2;
+  --escuro: #33312c; --escuro-2: #3e3c36; --quartos: #2d3529; --claro: #f3f0e9;
+}
